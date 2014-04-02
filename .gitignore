@@ -1,0 +1,8 @@
+# Intelli J idea stuff:
+/.idea
+/out/*
+/enzymews.iml
+
+# maven deploy:
+/target/
+
